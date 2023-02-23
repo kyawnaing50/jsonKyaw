@@ -11,8 +11,7 @@ const BlogCard = ({image, title,subTitle,category,link }) => {
 
           <div className=' flex flex-col items-center gap-2'>
               <span className='text-sm text-designColor border-[1px] border-designColor px-2'>{title}</span>
-              <h2 className=' text-base text-center font-semibold font-titlefont text-[#ccc] group-hover:text-designColor duration-300'>{subTitle}</h2>
-              <p className=' text-sm -mt-1 text-gray-400'>{ category}</p>
+              <h2 className=' text-base text-center font-normal font-titlefont text-[#ccc] '>{subTitle}</h2>
           </div>
           {/* button */}
         <div className='flex h-6 w-full py-4 justify-center items-center'>
@@ -20,7 +19,7 @@ const BlogCard = ({image, title,subTitle,category,link }) => {
                 href= {link}
                 target="_blank"
                 rel='noreferrer'>
-            <button className='w-full h-full flex justify-center borderRight items-center gap-2 '>View</button>
+            <button className=' mt-4 w-full h-full flex justify-center borderRight items-center gap-2 hover:text-designColor duration-300 '>READ..</button>
             </a>
             
         </div>
