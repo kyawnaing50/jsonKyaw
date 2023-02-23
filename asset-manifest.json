@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6c212f6c.css",
+    "main.js": "/static/js/main.adb1a5c0.js",
+    "static/media/AS1.pdf": "/static/media/AS1.3f79db0a491fb0580ae2.pdf",
+    "static/media/DeliApp.png": "/static/media/DeliApp.10489733803c0940a6a7.png",
+    "static/media/banner.jpeg": "/static/media/banner.f862427d13c1bbce3673.jpeg",
+    "static/media/like.jpg": "/static/media/like.0c21d0188efca63a7498.jpg",
+    "static/media/admin.jpg": "/static/media/admin.164b41cca80dec37cab7.jpg",
+    "static/media/likemobile.jpg": "/static/media/likemobile.8058ca37977957272d93.jpg",
+    "static/media/monelarr.jpg": "/static/media/monelarr.fef323277f046aad1717.jpg",
+    "static/media/yangonsport.jpeg": "/static/media/yangonsport.eb2abe637952367c0cfe.jpeg",
+    "index.html": "/index.html",
+    "main.6c212f6c.css.map": "/static/css/main.6c212f6c.css.map",
+    "main.adb1a5c0.js.map": "/static/js/main.adb1a5c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c212f6c.css",
+    "static/js/main.adb1a5c0.js"
+  ]
+}
