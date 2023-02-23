@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/jsonKyaw/static/css/main.6c212f6c.css",
-    "main.js": "/jsonKyaw/static/js/main.5a33ad52.js",
+    "main.css": "/jsonKyaw/static/css/main.e6a5c5dc.css",
+    "main.js": "/jsonKyaw/static/js/main.9e74d1fe.js",
     "static/media/AS1.pdf": "/jsonKyaw/static/media/AS1.3f79db0a491fb0580ae2.pdf",
     "static/media/DeliApp.png": "/jsonKyaw/static/media/DeliApp.10489733803c0940a6a7.png",
     "static/media/banner.jpeg": "/jsonKyaw/static/media/banner.f862427d13c1bbce3673.jpeg",
@@ -12,11 +12,11 @@
     "static/media/monelarr.jpg": "/jsonKyaw/static/media/monelarr.fef323277f046aad1717.jpg",
     "static/media/yangonsport.jpeg": "/jsonKyaw/static/media/yangonsport.eb2abe637952367c0cfe.jpeg",
     "index.html": "/jsonKyaw/index.html",
-    "main.6c212f6c.css.map": "/jsonKyaw/static/css/main.6c212f6c.css.map",
-    "main.5a33ad52.js.map": "/jsonKyaw/static/js/main.5a33ad52.js.map"
+    "main.e6a5c5dc.css.map": "/jsonKyaw/static/css/main.e6a5c5dc.css.map",
+    "main.9e74d1fe.js.map": "/jsonKyaw/static/js/main.9e74d1fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c212f6c.css",
-    "static/js/main.5a33ad52.js"
+    "static/css/main.e6a5c5dc.css",
+    "static/js/main.9e74d1fe.js"
   ]
 }
