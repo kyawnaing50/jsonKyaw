@@ -6,7 +6,7 @@ import { FaGithub } from "react-icons/fa";//FaLinkedin
 import { SiYoutube, SiViber ,SiTelegram} from "react-icons/si";
 import {  FiMail, FiSend } from "react-icons/fi";//FiInstagram,FiSend
 import  banner  from '../../assets/work/banner.jpeg';
-import CV from '../../assets/AS1.pdf'
+import CV from '../../assets/myResume.pdf'
 
 const Left = () => {
     const [text] = useTypewriter({
@@ -63,7 +63,7 @@ const Left = () => {
                         href= {CV}
                         target="_blank"
                         rel='noreferrer'>
-                    <button className='w-full h-full flex justify-center borderRight items-center gap-2 '>Download CV<BsCloudLightningFill/></button>
+                    <button className='w-full h-full flex justify-center borderRight items-center gap-2 '>Download Resume<BsCloudLightningFill/></button>
                     </a>
                     <button className='w-1/2 h-full flex justify-center items-center gap-2 border-t-[1px] border-t-zinc-800 text-sm tracking-wide uppercase hover:text-designColor duration-300'>contact me<FiSend/></button>
                 </div>

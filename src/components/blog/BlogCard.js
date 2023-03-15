@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 const BlogCard = ({image, title,subTitle,category,link }) => {
   return (
       <div className='py-6 flex flex-col gap-2 items-center justify-center border-b-[1px] border-b-zinc-800 group '>
