@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/jsonKyaw/static/css/main.e6a5c5dc.css",
-    "main.js": "/jsonKyaw/static/js/main.d0c592d4.js",
+    "main.css": "/jsonKyaw/static/css/main.9f6c3f61.css",
+    "main.js": "/jsonKyaw/static/js/main.0379935a.js",
     "static/media/DeliApp.png": "/jsonKyaw/static/media/DeliApp.10489733803c0940a6a7.png",
-    "static/media/myResume.pdf": "/jsonKyaw/static/media/myResume.7b2219560b703fc819e4.pdf",
-    "static/media/banner.jpeg": "/jsonKyaw/static/media/banner.f862427d13c1bbce3673.jpeg",
+    "static/media/myResume.pdf": "/jsonKyaw/static/media/myResume.23c5b05dcf10da55b004.pdf",
+    "static/media/banner.jpeg": "/jsonKyaw/static/media/banner.c6898f7b8284ca2b56bd.jpeg",
     "static/media/like.jpg": "/jsonKyaw/static/media/like.0c21d0188efca63a7498.jpg",
     "static/media/admin.jpg": "/jsonKyaw/static/media/admin.164b41cca80dec37cab7.jpg",
     "static/media/bitcoin & blockchain.pdf": "/jsonKyaw/static/media/bitcoin & blockchain.3e9c63cdbe97548e6889.pdf",
@@ -12,11 +12,11 @@
     "static/media/monelarr.jpg": "/jsonKyaw/static/media/monelarr.fef323277f046aad1717.jpg",
     "static/media/yangonsport.jpeg": "/jsonKyaw/static/media/yangonsport.eb2abe637952367c0cfe.jpeg",
     "index.html": "/jsonKyaw/index.html",
-    "main.e6a5c5dc.css.map": "/jsonKyaw/static/css/main.e6a5c5dc.css.map",
-    "main.d0c592d4.js.map": "/jsonKyaw/static/js/main.d0c592d4.js.map"
+    "main.9f6c3f61.css.map": "/jsonKyaw/static/css/main.9f6c3f61.css.map",
+    "main.0379935a.js.map": "/jsonKyaw/static/js/main.0379935a.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6a5c5dc.css",
-    "static/js/main.d0c592d4.js"
+    "static/css/main.9f6c3f61.css",
+    "static/js/main.0379935a.js"
   ]
 }
