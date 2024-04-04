@@ -17,7 +17,7 @@ const Left = () => {
     return (
         <div className='w-5/12 h-full bg-bodyColor rounded-2xl shadow-testShadow z-10'>
             <div className='w-full h-3/5'>
-                <img className='w-full h-full object-cover rounded-2xl'
+                <img className='w-full h-full pt-5 object-cover rounded-2xl'
                     src={banner}
                     alt="bannerImage"
                     loading='priority'/>
