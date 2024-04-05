@@ -1,6 +1,6 @@
 import React from 'react'
 import { useTypewriter,Cursor} from "react-simple-typewriter";
- import {BsCloudLightningFill,  BsFacebook } from "react-icons/bs";//
+import {BsCloudLightningFill} from "react-icons/bs";//
 import { FaGithub } from "react-icons/fa";//FaLinkedin
 // import { AiFillTwitterCircle } from "react-icons/ai";
 import { SiYoutube, SiViber ,SiTelegram} from "react-icons/si";
@@ -10,7 +10,7 @@ import CV from '../../assets/myResume.pdf'
 
 const Left = () => {
     const [text] = useTypewriter({
-        words: ["Full Stack Developer","Web Developer", "UI Designer", "Android Developer","Youtuber", "Desktop App Developer","Myint Myat Maung's Daddy", "Shwe Yote's Father"],
+        words: ["Full Stack Developer","Web Developer", "UI Designer", "Android Developer","Youtuber", "Desktop App Developer"],
         loop: true,
         typeSpeed:50,deleteSpeed:20,delaySpeed:2000,
     });
@@ -43,9 +43,9 @@ const Left = () => {
                     <span className=' hover:text-designColor duration-300 cursor-pointer text-xl'><SiYoutube /></span>
                     </a>
                     {/* ====Facebook======  */}
-                    <a href= "https://www.facebook.com/profile.php?id=100011348866484" target="_blank" rel='noreferrer'> 
+                    {/* <a href= "https://www.facebook.com/profile.php?id=100011348866484" target="_blank" rel='noreferrer'> 
                     <span className=' hover:text-designColor duration-300 cursor-pointer text-xl'>< BsFacebook/></span>
-                    </a>
+                    </a> */}
                     {/* ====Mail======  */}
                     <a href= "https://mail.google.com/mail/u/0/#inbox" target="_blank" rel='noreferrer'> 
                     <span className=' hover:text-designColor duration-300 cursor-pointer text-xl'><FiMail /> </span>     
